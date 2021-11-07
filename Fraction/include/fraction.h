@@ -1,9 +1,7 @@
 #pragma once
-#include <iostream>
-using namespace std;
 class Fraction
 {
-    private:
+    public:
         int num;
         int den;
     public:

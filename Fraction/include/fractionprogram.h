@@ -1,6 +1,5 @@
 #pragma once
 #include "fraction.h"
-#include <iostream>
 
 class FractionProgram
 {

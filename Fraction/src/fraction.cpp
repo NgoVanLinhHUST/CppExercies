@@ -1,5 +1,5 @@
 #include <iostream>
-#include "lib/fraction.h"
+#include "fraction.h"
 
 using namespace std ;
 Fraction::Fraction() 

@@ -1,6 +1,7 @@
+#pragma once
 #include "computer.h"
 #include "player.h"
-#pragma once
+
 
 class Game
 {

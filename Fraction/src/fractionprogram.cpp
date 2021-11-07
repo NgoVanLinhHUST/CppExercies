@@ -1,6 +1,5 @@
 #include <iostream>
-#include "lib/fractionprogram.h"
-
+#include "fractionprogram.h"
 using namespace std;
 #define EXIT 0
 void FractionProgram::run() 

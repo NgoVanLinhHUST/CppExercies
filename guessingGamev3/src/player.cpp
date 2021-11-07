@@ -1,7 +1,5 @@
 #include <iostream>
-#include <cstdlib>
-#include <ctime>
-#include "computer.h"
+#include "player.h"
 using namespace std;
 
 Player::Player(){}

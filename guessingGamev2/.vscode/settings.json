@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "atomic": "cpp",
+        "compare": "cpp",
+        "iterator": "cpp",
+        "memory": "cpp",
+        "tuple": "cpp",
+        "xlocale": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp",
+        "limits": "cpp",
+        "streambuf": "cpp",
+        "type_traits": "cpp",
+        "xlocnum": "cpp",
+        "iostream": "cpp"
+    }
+}

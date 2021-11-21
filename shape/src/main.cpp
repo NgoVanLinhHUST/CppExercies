@@ -8,8 +8,8 @@ using namespace std;
 
 int main()
 {
-	ShapeDemo program;
-	program.run();
+	ShapeDemo pg;
+	pg.run();
 
 	return 0;
 }
